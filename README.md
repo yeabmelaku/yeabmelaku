@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 🎓 **Computer Science Student** passionate about solving real-world problems with technology.  
-💻 Skilled in **React, Node.js, JavaScript, Python, Java, HTML, and CSS.**  
+💻 Skilled in **React, Node.js,ReactNative.js JavaScript, Python, Java, HTML, and CSS.**  
 🚀 Always learning new technologies and building exciting projects.  
 
 ---
@@ -28,6 +28,7 @@
 ## 🌟 Featured Projects  
 
 ### 🔥 **Expense Tracker**  
+### 🔥 **StocKSmart**  
    
 🛠 **Tech Stack:**  Node.js, MongoDB  
 
